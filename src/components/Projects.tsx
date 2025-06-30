@@ -1,4 +1,3 @@
-
 import { Calendar, ExternalLink, Github } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -34,7 +33,7 @@ const Projects = () => {
   ];
 
   return (
-    <section className="py-20 bg-white" id="projects">
+    <section className="py-20 bg-gradient-to-br from-rose-200 via-orange-200 to-yellow-200" id="projects">
       <div className="container mx-auto px-6">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-4xl font-bold text-center mb-12 text-gray-800">Projects</h2>

@@ -1,4 +1,3 @@
-
 import { Mail, Phone, Github, ExternalLink } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -38,7 +37,7 @@ const Contact = () => {
   ];
 
   return (
-    <section className="py-20 bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white" id="contact">
+    <section className="py-20 bg-gradient-to-br from-emerald-400 via-teal-500 to-blue-600 text-white" id="contact">
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl font-bold text-center mb-12">Get In Touch</h2>

@@ -1,9 +1,8 @@
-
 import { Calendar, ExternalLink } from 'lucide-react';
 
 const Experience = () => {
   return (
-    <section className="py-20 bg-gray-50" id="experience">
+    <section className="py-20 bg-gradient-to-br from-purple-200 via-pink-200 to-rose-200" id="experience">
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl font-bold text-center mb-12 text-gray-800">Experience</h2>
