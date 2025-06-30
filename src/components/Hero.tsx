@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-900 via-purple-900 to-pink-900 text-white relative overflow-hidden">
+    <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-400 via-purple-500 to-pink-500 text-white relative overflow-hidden">
       <div className="absolute inset-0 bg-black/20"></div>
       <div className="container mx-auto px-6 z-10">
         <div className="text-center max-w-4xl mx-auto">

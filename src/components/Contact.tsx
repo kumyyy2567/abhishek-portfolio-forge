@@ -37,7 +37,7 @@ const Contact = () => {
   ];
 
   return (
-    <section className="py-20 bg-gradient-to-br from-orange-900 via-red-900 to-purple-900 text-white" id="contact">
+    <section className="py-20 bg-gradient-to-br from-emerald-400 via-teal-500 to-blue-600 text-white" id="contact">
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl font-bold text-center mb-12">Get In Touch</h2>
